@@ -1,0 +1,5 @@
+export const SET_CLASS = "SET_CLASS"
+export const ADD_POINT = "ADD_POINT"
+export const REMOVE_POINT = "REMOVE_POINT"
+export const SET_POINTS = "SET_POINTS"
+export const RESET_SPEC = "RESET_SPEC"
